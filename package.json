@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.47.0",
-    "axios": "^1.15.0",
-    "vue": "^2.7.16",
+    "axios": "^1.15.2",
+    "vue": "^3.0.0",
     "vue-ls": "^4.2.0",
     "vue-router": "^3.6.5",
     "vuetify": "^2.7.2",
