@@ -6476,9 +6476,9 @@ svgo@^2.7.0:
     stable "^0.1.8"
 
 systeminformation@^5.31.1:
-  version "5.31.12"
-  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.31.12.tgz#6a49c9e380fe8b547fac19253505064eff160c5d"
-  integrity sha512-qnTtO5wHrKeKE/MvQ6iIt6XAV+5fgt/kPIQf27DYgjVQQuHUfWkV4Gu6k04ZpEzAMuyQ3ZsovY7Ivhp+E9JyWw==
+  version "5.33.19"
+  resolved "https://registry.yarnpkg.com/systeminformation/-/systeminformation-5.33.19.tgz#b956e75ff6d7bdc6019ca4fc13c78b01f47cc415"
+  integrity sha512-Zm7wGeCG7PqfvzegMJIzrxICopWqYCeLATVmvxOOci1isLcNVKgY4Fr0hhYQzvc7cgtK3377jQVChTFAnznOiA==
 
 tapable@^2.0.0, tapable@^2.1.1, tapable@^2.2.0, tapable@^2.2.1:
   version "2.2.1"
